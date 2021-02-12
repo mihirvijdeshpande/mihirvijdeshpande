@@ -15,9 +15,9 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Jenkins](https://img.shields.io/badge/CD--CD-Jenkins-blue?logo=jenkins)&nbsp;
-![AzureDevOps]()&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Jenkins](https://img.shields.io/badge/CD--CD-Jenkins-blue?logo=jenkins&logoColor=48728b)&nbsp;
+![AzureDevOps](https://img.shields.io/badge/CD--CD-AzureDevOps-informational?logo=azuredevops)&nbsp;
+![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?logo=amazon)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
