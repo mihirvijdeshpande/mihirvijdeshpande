@@ -13,8 +13,9 @@
 📄 &nbsp;I also have worked extensively on Cloud platforms like AWS and managing compliance and designing policies for Best Practices.
 
 ### 🛠 &nbsp;Tech Stack
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
+![Git](https://img.shields.io/badge/SCM-Git-orange?logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/SCM-GitHub-black?logo=github)$nbsp;
+![GitLab](https://img.shields.io/badge/SCM-GitLab-red?logo=gitlab)\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Jenkins](https://img.shields.io/badge/CD--CD-Jenkins-blue?logo=jenkins&logoColor=48728b)&nbsp;
 ![AzureDevOps](https://img.shields.io/badge/CD--CD-AzureDevOps-informational?logo=azuredevops)&nbsp;
