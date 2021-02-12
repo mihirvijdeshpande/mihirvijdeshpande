@@ -1,6 +1,5 @@
 <h2>Hey there! I'm Mihir</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+ <a href="https://raw.githubusercontent.com/mihirvijdeshpande/mihirvijdeshpande/master/Mihir-Deshpande.pdf"><img src="https://img.shields.io/badge/-Resume-blue?style=flat&logo=microsoftword&logoColor=white"/></a>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -61,5 +60,4 @@
 <a href="https://linkedin.com/in/mihirvdeshpande"><img src="https://img.shields.io/badge/-Mihir%20Deshpande-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mihirvijdeshpand@gmail.com"><img src="https://img.shields.io/badge/-mihirvijdeshpande@gmail.om-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/mihirvijdeshpande/"><img src="https://img.shields.io/badge/-@mihirvijdeshpande-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://raw.githubusercontent.com/mihirvijdeshpande/mihirvijdeshpande/master/Mihir-Deshpande.pdf"><img src="https://img.shields.io/badge/-Resume-blue?style=flat&logo=microsoftword&logoColor=white"/></a>
 </p>
