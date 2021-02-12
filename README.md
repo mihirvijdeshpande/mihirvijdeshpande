@@ -1,4 +1,4 @@
-![Mihir Deshpande](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Mihir Deshpande](https://raw.githubusercontent.com/AVS1508/AVS1508/master/mihir-deshpande.png)
 <h2>Hey there! I'm Mihir</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
