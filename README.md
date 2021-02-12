@@ -15,42 +15,32 @@
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/SCM-Git-orange?logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/SCM-GitHub-black?logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/SCM-GitLab-red?logo=gitlab)&nbsp;
-
+![GitLab](https://img.shields.io/badge/SCM-GitLab-red?logo=gitlab)\
 ![Jenkins](https://img.shields.io/badge/CI-Jenkins-blue?logo=jenkins)&nbsp;
 ![AzureDevOps](https://img.shields.io/badge/CI--CD-AzureDevOps-informational?logo=azuredevops)&nbsp;
-![UCD](https://img.shields.io/badge/CD-UCDeploy-black)&nbsp;
-
+![UCD](https://img.shields.io/badge/CD-UCDeploy-black)\
 ![SonarQube](https://img.shields.io/badge/QA-SonarQube-aqua)&nbsp;
-![Snyk](https://img.shields.io/badge/QA-Snyk-purple)&nbsp;
-
-![Artifactory](https://img.shields.io/badge/Repo-Artifactory-Green?logo=jfrog)&nbsp;
-
+![Snyk](https://img.shields.io/badge/QA-Snyk-purple)\
+![Artifactory](https://img.shields.io/badge/Repo-Artifactory-Green?logo=jfrog)\
 ![Maven](https://img.shields.io/badge/Build-Maven-critical?logo=apachemaven)&nbsp;
-![.NET](https://img.shields.io/badge/Build-.NET-blue?logo=dot-net)&nbsp;
-
+![.NET](https://img.shields.io/badge/Build-.NET-blue?logo=dot-net)\
 ![Python](https://img.shields.io/badge/Lang-Python-yellow?logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/Lang-Flask-red?logo=flask)&nbsp;
-![Java](https://img.shields.io/badge/Lang-Java-blue?logo=java)&nbsp;
-
-![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?logo=amazon)&nbsp;
-
+![Java](https://img.shields.io/badge/Lang-Java-blue?logo=java)\
+![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?logo=amazon)\
 ![Ansible](https://img.shields.io/badge/CM-Ansible-white?logo=ansible)&nbsp;
 ![Terraform](https://img.shields.io/badge/CM-Terraform-cyan)&nbsp;
-![Docker](https://img.shields.io/badge/CM-Docker-blue?logo=docker)&nbsp;
-
+![Docker](https://img.shields.io/badge/CM-Docker-blue?logo=docker)\
 ![Cloud-Custodian](https://img.shields.io/badge/Compliance-Cloud--Custodian-white?logo=jira)&nbsp;
 ![Kitchen](https://img.shields.io/badge/Compliance-Kitchen-blue?logo=jira)&nbsp;
-![Conftest](https://img.shields.io/badge/Compliance-OPA--conftest-black?logo=jira)&nbsp;
-
+![Conftest](https://img.shields.io/badge/Compliance-OPA--conftest-black?logo=jira)\
 ![Jira](https://img.shields.io/badge/Documentation-Jira-blue?logo=jira)&nbsp;
-![Confluence](https://img.shields.io/badge/Documentation-Confluence-cyan?logo=confluence)&nbsp;
-
+![Confluence](https://img.shields.io/badge/Documentation-Confluence-cyan?logo=confluence)\
 ![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/IDE-Eclipse-05122A?logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/Design-Photoshop-blue?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/Design-InDesign-ff69b4?style=flat&logo=adobe-indesign)&nbsp;
-![XD](https://img.shields.io/badge/Design-XD-05122A?style=flat&logo=adobe-indesign)&nbsp;
+![XD](https://img.shields.io/badge/Design-XD-white?style=flat&logo=adobexd)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
