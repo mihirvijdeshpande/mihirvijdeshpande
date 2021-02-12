@@ -13,6 +13,9 @@
 📄 &nbsp;I also have worked extensively on Cloud platforms like AWS and managing compliance and designing policies for Best Practices.
 
 ### 🛠 &nbsp;Tech Stack
+![Git](https://img.shields.io/badge/Skill-DevOps-Blue)&nbsp;
+![Git](https://img.shields.io/badge/Skill-Agile-cyan)&nbsp;
+![Git](https://img.shields.io/badge/Skill-Consulting-yellow)\
 ![Git](https://img.shields.io/badge/SCM-Git-orange?logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/SCM-GitHub-black?logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/SCM-GitLab-red?logo=gitlab)\
@@ -34,8 +37,8 @@
 ![Cloud-Custodian](https://img.shields.io/badge/Compliance-Cloud--Custodian-white?logo=jira)&nbsp;
 ![Kitchen](https://img.shields.io/badge/Compliance-Kitchen-blue?logo=jira)&nbsp;
 ![Conftest](https://img.shields.io/badge/Compliance-OPA--conftest-black?logo=jira)\
-![Jira](https://img.shields.io/badge/Documentation-Jira-blue?logo=jira)&nbsp;
-![Confluence](https://img.shields.io/badge/Documentation-Confluence-cyan?logo=confluence)\
+![Jira](https://img.shields.io/badge/Document-Jira-blue?logo=jira)&nbsp;
+![Confluence](https://img.shields.io/badge/Document-Confluence-cyan?logo=confluence)\
 ![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/IDE-Eclipse-05122A?logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/Design-Photoshop-blue?style=flat&logo=adobe-photoshop)&nbsp;
@@ -54,11 +57,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://https://devopsdummies.wordpress.com/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mihirvdeshpande"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mihirvijdeshpand@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/mihirvijdeshpande/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
