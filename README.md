@@ -14,7 +14,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Jenkins](https://img.shields.io/badge/CD--CD-Jenkins-blue?logo=jenkins&logoColor=48728b)&nbsp;
 ![AzureDevOps](https://img.shields.io/badge/CD--CD-AzureDevOps-informational?logo=azuredevops)&nbsp;
