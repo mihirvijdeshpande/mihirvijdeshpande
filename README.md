@@ -14,11 +14,14 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/SCM-Git-orange?logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/SCM-GitHub-black?logo=github)$nbsp;
+![GitHub](https://img.shields.io/badge/SCM-GitHub-black?logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/SCM-GitLab-red?logo=gitlab)\
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
 ![Jenkins](https://img.shields.io/badge/CD--CD-Jenkins-blue?logo=jenkins&logoColor=48728b)&nbsp;
-![AzureDevOps](https://img.shields.io/badge/CD--CD-AzureDevOps-informational?logo=azuredevops)&nbsp;
+![AzureDevOps](https://img.shields.io/badge/CD--CD-AzureDevOps-informational?logo=azuredevops)\
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
 ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?logo=amazon)&nbsp;
 ![Ansible](https://img.shields.io/badge/CM-Ansible-white?logo=ansible)&nbsp;
 ![Terraform](https://img.shields.io/badge/CM-Terraform-cyan)\
