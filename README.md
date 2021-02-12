@@ -15,27 +15,38 @@
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/SCM-Git-orange?logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/SCM-GitHub-black?logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/SCM-GitLab-red?logo=gitlab)\
+![GitLab](https://img.shields.io/badge/SCM-GitLab-red?logo=gitlab)&nbsp;
 
 ![Jenkins](https://img.shields.io/badge/CD--CD-Jenkins-blue?logo=jenkins&logoColor=48728b)&nbsp;
-![AzureDevOps](https://img.shields.io/badge/CD--CD-AzureDevOps-informational?logo=azuredevops)\
+![AzureDevOps](https://img.shields.io/badge/CD--CD-AzureDevOps-informational?logo=azuredevops)&nbsp;
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SonarQube](https://img.shields.io/badge/QA-SonarQube-aqua)&nbsp;
+![Snyk](https://img.shields.io/badge/QA-Snyk-purple)&nbsp;
+
+![Artifactory](https://img.shields.io/badge/Repo-Artifactory-Green?logo=jfrog)&nbsp;
+
+![Maven](https://img.shields.io/badge/Build-Maven-critical?logo=apachemaven)&nbsp;
+![.NET](https://img.shields.io/badge/Build-.NET-blue?logo=dot-net)&nbsp;
+
+![Python](https://img.shields.io/badge/Lang-Python-yellow?logo=python)&nbsp;
+![Flask](https://img.shields.io/badge/Lang-Flask-red?logo=flask)&nbsp;
+![Java](https://img.shields.io/badge/Lang-Java-blue?logo=java)&nbsp;
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?logo=amazon)&nbsp;
+
 ![Ansible](https://img.shields.io/badge/CM-Ansible-white?logo=ansible)&nbsp;
-![Terraform](https://img.shields.io/badge/CM-Terraform-cyan)\
+![Terraform](https://img.shields.io/badge/CM-Terraform-cyan)&nbsp;
 
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+
+
+
+
+
+
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
