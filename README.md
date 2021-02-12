@@ -44,13 +44,14 @@
 ![InDesign](https://img.shields.io/badge/Design-InDesign-ff69b4?style=flat&logo=adobe-indesign)&nbsp;
 ![XD](https://img.shields.io/badge/Design-XD-white?style=flat&logo=adobexd)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/mihirvijdeshpande">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mihirvijdeshpande&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
