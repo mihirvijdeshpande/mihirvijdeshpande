@@ -55,7 +55,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://devopsdummies.wordpress.com"><img src="https://img.shields.io/badge/-devopsdummies-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://devopsdummies.wordpress.com"><img src="https://img.shields.io/badge/-DevOpsDummies-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/mihirvdeshpande"><img src="https://img.shields.io/badge/-Mihir%20Deshpande-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mihirvijdeshpand@gmail.com"><img src="https://img.shields.io/badge/-mihirvijdeshpande@gmail.om-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/mihirvijdeshpande/"><img src="https://img.shields.io/badge/-@mihirvijdeshpande-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
