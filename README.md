@@ -48,8 +48,8 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/IDE-Eclipse-05122A?logo=eclipse-ide&logoColor=2C2255)\
-![Photoshop](https://img.shields.io/badge/Design-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/Design-InDesign-05122A?style=flat&logo=adobe-indesign)&nbsp;
+![Photoshop](https://img.shields.io/badge/Design-Photoshop-blue?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/Design-InDesign-ff69b4?style=flat&logo=adobe-indesign)&nbsp;
 ![XD](https://img.shields.io/badge/Design-XD-05122A?style=flat&logo=adobe-indesign)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
