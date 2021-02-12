@@ -17,8 +17,9 @@
 ![GitHub](https://img.shields.io/badge/SCM-GitHub-black?logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/SCM-GitLab-red?logo=gitlab)&nbsp;
 
-![Jenkins](https://img.shields.io/badge/CD--CD-Jenkins-blue?logo=jenkins&logoColor=48728b)&nbsp;
-![AzureDevOps](https://img.shields.io/badge/CD--CD-AzureDevOps-informational?logo=azuredevops)&nbsp;
+![Jenkins](https://img.shields.io/badge/CI-Jenkins-blue?logo=jenkins)&nbsp;
+![AzureDevOps](https://img.shields.io/badge/CI--CD-AzureDevOps-informational?logo=azuredevops)&nbsp;
+![UCD](https://img.shields.io/badge/CD-UCDeploy-black)&nbsp;
 
 ![SonarQube](https://img.shields.io/badge/QA-SonarQube-aqua)&nbsp;
 ![Snyk](https://img.shields.io/badge/QA-Snyk-purple)&nbsp;
@@ -36,19 +37,16 @@
 
 ![Ansible](https://img.shields.io/badge/CM-Ansible-white?logo=ansible)&nbsp;
 ![Terraform](https://img.shields.io/badge/CM-Terraform-cyan)&nbsp;
+![Docker](https://img.shields.io/badge/CM-Docker-blue?logo=docker)&nbsp;
 
+![Cloud-Custodian](https://img.shields.io/badge/Compliance-Cloud--Custodian-white?logo=jira)&nbsp;
+![Kitchen](https://img.shields.io/badge/Compliance-Kitchen-blue?logo=jira)&nbsp;
+![Conftest](https://img.shields.io/badge/Compliance-OPA--conftest-black?logo=jira)&nbsp;
 
-
-
-
-
-
-
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
+![Jira](https://img.shields.io/badge/Documentation-Jira-blue?logo=jira)&nbsp;
+![Confluence](https://img.shields.io/badge/Documentation-Confluence-cyan?logo=confluence)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
