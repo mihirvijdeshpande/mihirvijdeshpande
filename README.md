@@ -1,5 +1,5 @@
 <h2>Hey there! I'm Mihir</h2>
- <a href="https://raw.githubusercontent.com/mihirvijdeshpande/mihirvijdeshpande/master/Mihir-Deshpande.pdf"><img src="https://img.shields.io/badge/-Resume-blue?style=flat&logo=microsoftword&logoColor=white"/></a>
+ <a href="https://www.canva.com/design/DAEKfJ46pSE/6yKyWdJfoyG-lf2Icm17FA/view?"><img src="https://img.shields.io/badge/-Resume-blue?style=flat&logo=microsoftword&logoColor=white"/></a>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
