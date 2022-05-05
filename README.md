@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a DevOps Professional with 4.5+ years of industry experience.\
+💡 &nbsp;I am a DevOps Professional with 5.5+ years of industry experience.\
 🎓 &nbsp;I've Completed my studies from Pune University and Graduated as a Bachelor of Engineering.\
 🌱 &nbsp;I'm currently working on CI-CD pipelines which also include Automated Configuration Management and Orchestration.\
 ✍️ &nbsp;I boast about my Skills with Jenkins, ADO, AWS, Terraform and Ansible.\
