@@ -31,8 +31,10 @@
 ![Java](https://img.shields.io/badge/Lang-Java-blue?logo=java)\
 ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?logo=amazon)\
 ![Ansible](https://img.shields.io/badge/CM-Ansible-white?logo=ansible)&nbsp;
-![Terraform](https://img.shields.io/badge/CM-Terraform-cyan)&nbsp;
-![Docker](https://img.shields.io/badge/CM-Docker-blue?logo=docker)\
+![Terraform](https://img.shields.io/badge/CM-Terraform-cyan)\
+![Docker](https://img.shields.io/badge/CM-Docker-blue?logo=docker)&nbsp;
+![K8s](https://img.shields.io/badge/CM-K8s-blue)&nbsp;
+![OpenShift](https://img.shields.io/badge/CM-OpenShift-crimson)\
 ![Cloud-Custodian](https://img.shields.io/badge/Compliance-Cloud--Custodian-white?logo=jira)&nbsp;
 ![Kitchen](https://img.shields.io/badge/Compliance-Kitchen-blue?logo=jira)&nbsp;
 ![Conftest](https://img.shields.io/badge/Compliance-OPA--conftest-black?logo=jira)\
