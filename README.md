@@ -3,9 +3,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a DevOps Professional with 5.5+ years of industry experience.\
+💡 &nbsp;I am a DevOps Professional with 6.5+ years of industry experience.\
 🎓 &nbsp;I've Completed my studies from Pune University and Graduated as a Bachelor of Engineering.\
-🌱 &nbsp;I'm currently working on CI-CD pipelines which also include Automated Configuration Management and Orchestration.\
+🌱 &nbsp;I'm currently working on CI-CD pipelines and Automated Configuration Management and Orchestration using K8s and OpenShift.\
 ✍️ &nbsp;I boast about my Skills with Jenkins, ADO, AWS, Terraform and Ansible.\
 💬 &nbsp;I have also worked on Collaboration and Communication initiatives as a part of DevOps Domain consulting.\
 ✉️ &nbsp;I have worked in Banking, Insurance, Automobile and Technology domains.\
@@ -31,8 +31,10 @@
 ![Java](https://img.shields.io/badge/Lang-Java-blue?logo=java)\
 ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?logo=amazon)\
 ![Ansible](https://img.shields.io/badge/CM-Ansible-white?logo=ansible)&nbsp;
-![Terraform](https://img.shields.io/badge/CM-Terraform-cyan)&nbsp;
-![Docker](https://img.shields.io/badge/CM-Docker-blue?logo=docker)\
+![Terraform](https://img.shields.io/badge/CM-Terraform-cyan)\
+![Docker](https://img.shields.io/badge/CM-Docker-blue?logo=docker)&nbsp;
+![K8s](https://img.shields.io/badge/CM-K8s-blue)&nbsp;
+![OpenShift](https://img.shields.io/badge/CM-OpenShift-crimson)\
 ![Cloud-Custodian](https://img.shields.io/badge/Compliance-Cloud--Custodian-white?logo=jira)&nbsp;
 ![Kitchen](https://img.shields.io/badge/Compliance-Kitchen-blue?logo=jira)&nbsp;
 ![Conftest](https://img.shields.io/badge/Compliance-OPA--conftest-black?logo=jira)\
