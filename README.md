@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a DevOps Professional with 6.5+ years of industry experience.\
+💡 &nbsp;I am a DevOps Professional with 7+ years of industry experience.\
 🎓 &nbsp;I've Completed my studies from Pune University and Graduated as a Bachelor of Engineering.\
 🌱 &nbsp;I'm currently working on CI-CD pipelines and Automated Configuration Management and Orchestration using K8s and OpenShift.\
 ✍️ &nbsp;I boast about my Skills with Jenkins, ADO, AWS, Terraform and Ansible.\
@@ -61,5 +61,4 @@
 <a href="https://devopsdummies.wordpress.com"><img src="https://img.shields.io/badge/-DevOpsDummies-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/mihirvdeshpande"><img src="https://img.shields.io/badge/-Mihir%20Deshpande-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mihirvijdeshpande@gmail.com"><img src="https://img.shields.io/badge/-mihirvijdeshpande@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/mihirvijdeshpande/"><img src="https://img.shields.io/badge/-@mihirvijdeshpande-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
